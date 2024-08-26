@@ -1,0 +1,7 @@
+ [
+0:  "Close-up shot of a person applying rainbow-colored eyeshadow, shimmering in the light, with a focus on the eyeshadow palette in Pride flag colors." ,
+1:  "A fashion model posing against a vibrant city backdrop, wearing a flowing rainbow cape, wind gently blowing through the fabric, with Pride flag colors reflecting in sunglasses." ,
+2:  "A group of friends laughing, arms linked, walking down the street, each wearing a different article of clothing with subtle rainbow accents, bathed in the golden glow of sunset." ,
+3:  "A bartender expertly mixing a cocktail, vibrant colors swirling in the shaker, against a backdrop of a crowded bar with rainbow flags, with a rainbow pin on the bartender's uniform glinting in the light." ,
+4:  "Slow-motion shot of confetti raining down on a cheering crowd at a Pride parade, everyone adorned with rainbow accessories, with a person in the foreground holding a Pride flag high above their head, catching the sunlight."
+]
